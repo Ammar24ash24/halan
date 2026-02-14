@@ -1,0 +1,10 @@
+
+{
+  "name": "Screen Intel AI",
+  "description": "A powerful AI assistant that reads your screen contents, solves questions instantly in Arabic and English, and maintains a history of your queries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}

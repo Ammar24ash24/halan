@@ -1,0 +1,20 @@
+
+{
+  "short_name": "المساعد الذكي",
+  "name": "الذكاء الخارق - قارئ الشاشة",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1698/1698535.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar"
+}
